@@ -1,0 +1,6 @@
+{
+  "name": "Bank of America",
+  "description": "Bank of America Mobile Banking - Accounts, Zelle, Merrill Investing, Preferred Rewards, Cards & Erica Financial Assistant",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
